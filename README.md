@@ -32,8 +32,3 @@ Hi, I am a Machine Learning Engineer from Ohio. Here's some tidbits about me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>&nbsp;
 
-
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engle212&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engle212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
