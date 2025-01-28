@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### About
-Hi, I am a Machine Learning Engineer from Ohio. Here's some tidbits about me:
+Hi, I am a Full-Stack Software Engineer from Ohio. Here's some tidbits about me:
+- I have extensive experience with Flask and Django
 - I am exploring how AI can be applied as a force for good and innovation.
-- I have extensive experience with computer vision and neural networks.
 
 
 ### Tools
