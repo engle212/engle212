@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ### About
 Hi, I am a Full-Stack Software Engineer from Ohio. Here's some tidbits about me:
 - I have extensive experience with Flask and Django
-- I am exploring how AI can be applied as a force for good and innovation.
+- I am exploring how AI can be applied as a force for good and innovation
+- I am always trying to learn new things; it's what makes this field interesting!
+- My website is now live here: [Personal Site](https://engle212.github.io/)
 
 
 ### Tools
